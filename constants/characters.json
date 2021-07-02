@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Balrog",
+    "country": "USA"
+  },
+  {
+    "name": "Bison",
+    "country": "USSR"
+  },
+  {
+    "name": "Blanka",
+    "country": "Brasil"
+  },
+  {
+    "name": "ChunLI",
+    "country": "China"
+  },
+  {
+    "name": "Dhaslim",
+    "country": "India"
+  },
+  {
+    "name": "Guile",
+    "country": "USA"
+  },
+  {
+    "name": "Honda",
+    "country": "Japan"
+  },
+  {
+    "name": "Ken",
+    "country": "Japan"
+  },
+  {
+    "name": "Ryu",
+    "country": "Japan"
+  },
+  {
+    "name": "Sagat",
+    "country": "ThaiLand"
+  },
+  {
+    "name": "Vega",
+    "country": "Spain"
+  },
+  {
+    "name": "Zangief",
+    "country": "USSR"
+  }
+]
